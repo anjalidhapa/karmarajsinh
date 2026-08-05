@@ -1,0 +1,10 @@
+
+https://github.com/anjalidhapa/karmarajsinh
+
+echo "# karmarajsinh" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/anjali123d/karmarajsinh.git
+git push -u origin main
