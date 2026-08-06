@@ -1,4 +1,4 @@
-print("~~~SGIN UP~~~")
+print("~~~Login~~~")
 
 user=input('ENTER YOUR USERNAME:')
 password=input('ENTER YOUR PASSWORD:')
