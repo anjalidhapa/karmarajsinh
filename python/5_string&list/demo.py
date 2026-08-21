@@ -37,4 +37,20 @@ print('\n\n----------- enumerate fun -------------------')
 
 for i, v in enumerate(arr):
     print(i, v)
-    
+
+
+print('\n\n----------- String -------------------')
+name = """
+    hello hadi
+     here 
+"""
+print(name)
+
+name = "hello "
+print(name)
+print(len(name))
+print(name[0])
+print(name[-2])
+
+# name[2] = 'a'
+# print(name)
