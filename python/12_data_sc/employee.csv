@@ -1,0 +1,16 @@
+Employee_ID,Employee_Name,Gender,Age,Department,Designation,City,Salary,Experience,Joining_Date,Performance_Rating,Employment_Status
+E001,Rahul Sharma,Male,28,IT,Software Developer,Ahmedabad,45000,3,2022-06-15,4,Active
+E002,Priya Patel,Female,25,HR,HR Executive,Bhavnagar,35000,2,2023-01-10,4,Active
+E003,Amit Shah,Male,32,Finance,Accountant,Surat,52000,6,2020-03-20,5,Active
+E004,Neha Mehta,Female,29,IT,Web Developer,Rajkot,48000,4,2021-07-12,4,Active
+E005,Rohan Desai,Male,35,Sales,Sales Manager,Vadodara,65000,9,2017-11-05,5,Active
+E006,Krisha Joshi,Female,27,Marketing,Marketing Executive,Ahmedabad,42000,3,2022-09-18,3,Active
+E007,Vivek Patel,Male,31,IT,Senior Developer,Gandhinagar,72000,7,2019-02-11,5,Active
+E008,Anjali Shah,Female,24,HR,Recruiter,Bhavnagar,32000,1,2024-01-08,3,Active
+E009,Karan Modi,Male,38,Finance,Finance Manager,Surat,85000,12,2014-05-19,5,Active
+E010,Pooja Trivedi,Female,30,Sales,Sales Executive,Rajkot,40000,5,2020-10-22,4,Active
+E011,Jay Patel,Male,26,IT,Junior Developer,Vadodara,36000,2,2023-04-17,3,Active
+E012,Meera Shah,Female,34,Marketing,Marketing Manager,Ahmedabad,68000,8,2018-08-25,5,Active
+E013,Harsh Mehta,Male,29,Finance,Financial Analyst,Gandhinagar,55000,5,2021-01-14,4,Active
+E014,Riya Desai,Female,27,Sales,Sales Executive,Surat,39000,3,2022-11-07,3,Active
+E015,Akash Joshi,Male,40,IT,Project Manager,Ahmedabad,95000,14,2012-06-01,5,Active
